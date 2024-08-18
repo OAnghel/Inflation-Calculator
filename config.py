@@ -1,0 +1,2 @@
+# config.py
+BLS_API_KEY = '36059b6f03ce421ca388071f6e2b0b51'
