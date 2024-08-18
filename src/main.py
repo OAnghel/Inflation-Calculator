@@ -1,5 +1,5 @@
 # src/main.py
-from src.calculator import DollarConverter
+from calculator import DollarConverter
 
 def main():
     converter = DollarConverter()
